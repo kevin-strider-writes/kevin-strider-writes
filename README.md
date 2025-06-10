@@ -5,8 +5,6 @@
   
 - 🌱 Recently, I've been improving my knowledge of generativeAI tools for images and video to increase the scope and productivity of my documentation
   
-- 💬 Ask me about all things to do with technical writing
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kevin-strider/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
