@@ -28,7 +28,7 @@ Throughout my contracting 'career', I've worked with the following companies:
 | [London Stock Exchange Greoup](https://www.lseg.com/en) | 2019-2020 |
 | [Investec Wealth & Investment](https://www.investec.com/en_gb/wealth.html) | 2018-2019 |
 | [Rexel](https://www.rexel.co.uk/uki/) | 2017-2018 |
-| [Capita](https://www.rexel.co.uk/uki/) | 2015-2017 |
+| [Capita](https://www.capita.com/) | 2015-2017 |
 | [ABP Food Group](https://abpfoodgroup.com/) | 2014-2015 |
 
 ---
