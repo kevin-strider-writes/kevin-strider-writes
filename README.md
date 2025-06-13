@@ -25,7 +25,7 @@ Throughout my contracting 'career', I've worked with the following companies:
 | [Meta](https://www.meta.com/gb/) | 2021-2023 |
 | [Wealth Dynamix](https://wealth-dynamix.com) | 2021 |
 | [Quod Financial](https://www.quodfinancial.com) | 2020 |
-| [London Stock Exchange Greoup](https://www.lseg.com/en) | 2019-2020 |
+| [London Stock Exchange Group](https://www.lseg.com/en) | 2019-2020 |
 | [Investec Wealth & Investment](https://www.investec.com/en_gb/wealth.html) | 2018-2019 |
 | [Rexel](https://www.rexel.co.uk/uki/) | 2017-2018 |
 | [Capita](https://www.capita.com/) | 2015-2017 |
