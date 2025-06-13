@@ -19,17 +19,17 @@ Throughout my contracting 'career', I've worked with the following companies:
 
 | Company | Year |
 |:--|:--|
-| [National Gas](https://www.nationalgas.com) | 2025 |
-| [Tesco Technology](https://www.linkedin.com/company/tesco-technology/)| 2024 |
-| [CloudNC](https://www.cloudnc.com/cam-assist) | 2023-2024 |
-| [Meta](https://www.meta.com/gb/) | 2021-2023 |
-| [Wealth Dynamix](https://wealth-dynamix.com) | 2021 |
-| [Quod Financial](https://www.quodfinancial.com) | 2020 |
-| [London Stock Exchange Greoup](https://www.lseg.com/en) | 2019-2020 |
-| [Investec Wealth & Investment](https://www.investec.com/en_gb/wealth.html) | 2018-2019 |
-| [Rexel](https://www.rexel.co.uk/uki/) | 2017-2018 |
-| [Capita](https://www.rexel.co.uk/uki/) | 2015-2017 |
-| [ABP Food Group](https://abpfoodgroup.com/) | 2014-2015 |
+| [National Gas](https://www.nationalgas.com{target="_blank"}) | 2025 |
+| [Tesco Technology](https://www.linkedin.com/company/tesco-technology/{target="_blank"})| 2024 |
+| [CloudNC](https://www.cloudnc.com/cam-assist{target="_blank"}) | 2023-2024 |
+| [Meta](https://www.meta.com/gb/{target="_blank"}) | 2021-2023 |
+| [Wealth Dynamix](https://wealth-dynamix.com{target="_blank"}) | 2021 |
+| [Quod Financial](https://www.quodfinancial.com{target="_blank"}) | 2020 |
+| [London Stock Exchange Greoup](https://www.lseg.com/en{target="_blank"}) | 2019-2020 |
+| [Investec Wealth & Investment](https://www.investec.com/en_gb/wealth.html{target="_blank"}) | 2018-2019 |
+| [Rexel](https://www.rexel.co.uk/uki/{target="_blank"}) | 2017-2018 |
+| [Capita](https://www.rexel.co.uk/uki/{target="_blank"}) | 2015-2017 |
+| [ABP Food Group](https://abpfoodgroup.com/{target="_blank"}) | 2014-2015 |
 
 ---
 
